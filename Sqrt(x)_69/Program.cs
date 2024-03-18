@@ -9,20 +9,7 @@
         static int MySqrt(int x)
         {
             int deger = 0;
-            if ( x== 0 )
-            {
-                return deger;
-            }
-            if (x == 1)
-            {
-                deger = 1;
-                return deger;
-            }
-            if (x == 2)
-            {
-                deger = 1;
-                return deger;
-            }
+          
             for (int i = 0; i < x; i++)
             {
                 if (i*i>x)
