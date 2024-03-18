@@ -50,13 +50,7 @@
             for (int i = 0; i < x; i++)
             {
                 int ikare = i * i;
-                if ((ikare < x)&&((i+1)*(i+1))>x)
-                {
-                    //
-                    deger = i;
-                    break;
-                   
-                }
+
                 if ( Math.BigMul(i,i) > x)
                 {
                     deger = i-1;
