@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two_Sum_1", "Two_Sum_1\Two_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrom Numarası_9", "Palindrom Numarası_9\Palindrom Numarası_9.csproj", "{EC8B8D17-4093-4F0B-A185-60303EC24A6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sqrt(x)_69", "Sqrt(x)_69\Sqrt(x)_69.csproj", "{6722F267-A494-4A45-8A63-D88545D550F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{EC8B8D17-4093-4F0B-A185-60303EC24A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC8B8D17-4093-4F0B-A185-60303EC24A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC8B8D17-4093-4F0B-A185-60303EC24A6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6722F267-A494-4A45-8A63-D88545D550F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6722F267-A494-4A45-8A63-D88545D550F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6722F267-A494-4A45-8A63-D88545D550F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6722F267-A494-4A45-8A63-D88545D550F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
